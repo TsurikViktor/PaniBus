@@ -127,6 +127,7 @@ body {
     align-items: center;	
 	color: whitesmoke;
 	text-decoration: none;
+    opacity: 0.5;
 }
 .info-call {
 	display: flex;
