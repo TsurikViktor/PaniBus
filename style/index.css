@@ -114,9 +114,9 @@ body {
     align-content: flex-end;
     flex-direction: row;
 }
-.ukraine,
-.bus,
-.poland {
+.ukraine img,
+.bus img,
+.poland  img{
 	opacity: 0.75;
 }
 .ukraine a,
@@ -128,6 +128,11 @@ body {
 	color: whitesmoke;
 	text-decoration: none;
     opacity: 0.5;
+}
+.ukraine :hover,
+.bus :hover,
+.poland :hover{
+	opacity: 1;
 }
 .info-call {
 	display: flex;
