@@ -1,6 +1,6 @@
 body {
     width: 100vw;
-    height: 230vh;
+    height: 240vh;
     min-width: 100vw;
     margin: 0;
     padding: 0;
@@ -117,7 +117,7 @@ body {
 .ukraine,
 .bus,
 .poland {
-	opacity: 1;
+	opacity: 0.75;
 }
 .ukraine a,
 .bus a,
