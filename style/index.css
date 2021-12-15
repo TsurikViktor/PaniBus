@@ -4,7 +4,7 @@ body {
     min-width: 100vw;
     margin: 0;
     padding: 0;
-    background: url(/src/images/fon.png) no-repeat;
+    background: url(../images/fon.png) no-repeat;
     background-size: 100vw 100%;
     
 }
